@@ -1,2 +1,2 @@
 # mevn-stack-practice
-Creating a simple crud app using MEV stack
+Creating a simple crud app using MEVN stack
